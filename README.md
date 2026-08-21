@@ -15,5 +15,5 @@
 . Tech Stack: React.js, Node.js, Express.js, MongoDB, AWS EC2/S3, JWT.
 
 
-LIVE LINK:
-https://replit.com/@hemanthsrisai20/Feature-Craft
+LIVE DEMO:
+https://7505434a-6d2c-4c98-894a-81c326905819-00-1kbvbexnilf0w.worf.replit.dev/
