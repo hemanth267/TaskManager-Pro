@@ -13,3 +13,7 @@
 . Followed MVC architecture and optimized database queries for better performance.
 
 . Tech Stack: React.js, Node.js, Express.js, MongoDB, AWS EC2/S3, JWT.
+
+
+LIVE LINK:
+https://replit.com/@hemanthsrisai20/Feature-Craft
